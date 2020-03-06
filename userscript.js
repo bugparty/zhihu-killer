@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         知乎剪贴板杀手
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.0
 // @description  去掉复制知乎答案时的版权提示和字数限制（注意：仅用于个人笔记用途，请遵守版权协议，如果您认为侵犯了您的权益，请通知我删除）
 // @author       bugparty    
 // @home-url     https://github.com/bugparty/zhihu-killer
